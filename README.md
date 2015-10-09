@@ -1,3 +1,6 @@
+Стаття по использованию http://maemo.su/forum/viewtopic.php?id=7221
+
+
 OTP Generator for N900
 ======================
 
